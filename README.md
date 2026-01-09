@@ -4,14 +4,14 @@
 [![DOCS](../../actions/workflows/docs.yaml/badge.svg)](../../actions/workflows/docs.yaml)
 
 # Who
-aicex
+Simen
 
 # Why
-
+Testing
 <explain why you made this module>
 
 # How
-
+https://analogicus.com/aic2026/sky130nm_tutorial
 <explain short how you made this module>
 
 
