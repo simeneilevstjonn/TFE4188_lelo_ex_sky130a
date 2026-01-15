@@ -5,7 +5,7 @@ all: typical etc mc summary
 
 
 TB=tran
-VIEW=Sch
+VIEW=Lay
 #VIEW=Lay
 CELL=LELO_EX
 LIB =LELO_EX_SKY130A
